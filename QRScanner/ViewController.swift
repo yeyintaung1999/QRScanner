@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  QRScanner
-//
-//  Created by Ye Yint Aung on 09/12/2022.
-//
 
 import UIKit
 import Pods_QRScanner
@@ -80,6 +74,10 @@ extension ViewController: QRScannerViewDelegate {
             
         }
         
+    }
+    
+    func addedNewFunctionGitTest(){
+        //New Git Commited by GUI App
     }
 }
 
